@@ -1,6 +1,12 @@
 # :man_technologist: Hola, Mi nombre es José Francisco  👋. 
 
 
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5561521124&text=Olá!)](https://api.whatsapp.com/send?phone=5561521124&text=Olá!)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/Jose130614)](https://t.me/Jose130614)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jose.fco130614@gmail.com)](mailto:jose.fco130614@gmail.com)
+
+
+
 <br/>
 <a href="https://twitter.com/8bithemant">
 
